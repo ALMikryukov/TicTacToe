@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\User\source\repos\OOP\TicTacToe2\Main.cpp(96,6): warning C4101: kletka1: неиспользованная локальная переменная
+  TicTacToe2.vcxproj -> C:\Users\User\source\repos\OOP\Debug\TicTacToe2.exe
